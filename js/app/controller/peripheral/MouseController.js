@@ -1,0 +1,4 @@
+function MouseController () // Extend PeripheralController
+{
+
+}
